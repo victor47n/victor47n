@@ -22,7 +22,7 @@ Apaixonado por tecnologia, desenvolvimento e jogos.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=letmeask&theme=tokyonight)](https://github.com/victor47n/letmeask)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=ignews&theme=tokyonight)](https://github.com/victor47n/ignews)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=podcastr&theme=tokyonight)](https://github.com/victor47n/podcastr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=pizzashop&theme=tokyonight)]((https://github.com/victor47n/pizzashop))
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=cashflow&theme=tokyonight)](https://github.com/victor47n/cashflow)
 
 </div>
