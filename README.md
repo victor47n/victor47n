@@ -20,7 +20,7 @@ Apaixonado por tecnologia, desenvolvimento e jogos.
 <div style="margin: 1.25rem 0">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=track-aw4ys&theme=tokyonight)](https://github.com/victor47n/track-aw4ys)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=fin.aw4yss&theme=tokyonight)](https://github.com/victor47n/fin.aw4ys)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=pizzashop&theme=tokyonight)](https://github.com/victor47n/pizzashop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victor47n&repo=cashflow&theme=tokyonight)](https://github.com/victor47n/cashflow)
 
